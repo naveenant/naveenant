@@ -1,7 +1,7 @@
 ## Hello, this is Naveen Anto.
 
 Software Engineer 
-- 🔭 Here's my [portfolio]([https://hareesh.web.app/](https://naveenanto.netlify.app/))                                                 
+- 🔭 Here's my [portfolio]([https://naveenanto.netlify.app/])                                                 
 - 🌱 I’m currently learning DSA. 
 
 ### I code in
